@@ -1,0 +1,13 @@
+1. start xampp server goto mysql admin site.. local host
+2. create new database... name.. blood
+3. click recent create blood database and then create box type info.. and table value 4... and click go/save button.
+4.  4 table 1. name= available... type=verchar... length=50... key type=	
+             2. name= name... type=verchar... length= 50... key type= PRIMARY
+             3. name= mobile... type= INT... length= 11... key type=		
+              4. name=  grp	... type=verchar... length=50... key type=
+              
+then click save/go..
+your database created....
+open your project and run.....
+
+note: if your project error/Resolve option popup so you search yor project librayfile from library folder then  enter  manually sql connector driver.. then run  your project..

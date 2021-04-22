@@ -1,0 +1,7 @@
+
+package BDMS;
+
+
+class ResultSet {
+    
+}
